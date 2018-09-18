@@ -35,6 +35,8 @@ void test(){
      m_mutex.unlock();
 }
 
+void t(){}
+
 int main(){
     //thread t1(hello1);
     //t1.detach();
@@ -51,6 +53,7 @@ int main(){
         sleep(2000);
         // test for dev
          // tttt
+         // lalallalaladadfadsf
     }
     return 1;
 }
